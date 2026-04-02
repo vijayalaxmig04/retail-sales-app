@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import matplotlib.pyplot as 
+import matplotlib.pyplot as plt
 
 # ---------------- LOGIN SYSTEM ----------------
 def login():
